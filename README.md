@@ -144,27 +144,10 @@ Before using AI with real business materials:
 
 This repo is based on one practical idea:
 
-> less prompting theatre, more operational clarity
-
----
-
-## Status
-
-Early working draft.  
-Built as a small, practical reference rather than a full framework.
-
----
-
-## Suggested commit style
-
-For updates to this repo, a simple docs-style convention works well:
-
-- `docs: add initial guide for applying SDD to office work with AI`
-- `docs: refine contract review example`
-- `docs: add governance note for business use`
+> just use AI, no worries about it, here take an icecream while reading this.
 
 ---
 
 ## License
 
-Add the license that best fits how you want this material reused.
+free wally. I mean, MIT license. Inspired by Spec Kit 
